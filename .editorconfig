@@ -1,0 +1,25 @@
+# This file is for unifying the coding style for different editors and IDEs.
+# Read more @ https://editorconfig-specification.readthedocs.io/en/latest/
+
+# For Plugins visit https://editorconfig.org/
+
+; All Property Names and Property Values are case insensitive
+; Please note that if indent_style=tab then tab_width=indent_size
+; charset -> Set to latin1, utf-8, utf-8-bom, utf-16be or utf-16le to control the character set. Use of utf-8-bom is discouraged.
+; ToDo: Find out if utf-8 character set is okay for all types of files
+
+# top-most EditorConfig file
+root = true
+
+# Linux-style newlines with a newline ending every file
+# As this is common -> lets make it for all files
+[*]
+end_of_line = lf
+insert_final_newline = true
+trim_trailing_whitespace = true
+indent_style = space
+indent_size = 4
+charset = utf-8
+
+; If Sub root files exist make sure to add unset to these variablles
+; Both # and ; are commments
