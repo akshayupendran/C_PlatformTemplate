@@ -1,2 +1,10 @@
 # C_PlatformTemplate
-Lets just keep this repository as a platform for build up projects for me to learn how a platform is created
+Rules:
+Please use an editor  with .editorconfig plugin.
+Please run Release Shell Script to commit and not via git.
+
+Please enjoy your stay here.
+Thanks for your time.
+
+Release Shell Script:
+Shall run astyle before checking in.
