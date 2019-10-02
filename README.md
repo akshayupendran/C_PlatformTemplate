@@ -8,3 +8,10 @@ Thanks for your time.
 
 Release Shell Script:
 Shall run astyle before checking in.
+
+ToDo:
+Docker image
+Cmake
+Ninja
+Meson https://mesonbuild.com/
+clang instead of gcc
