@@ -1,12 +1,19 @@
-#  Custom options file for astyle (astyle.sourceforge.net), a source code
-#  formatter for C/C++ (and some other languages).
+################################################################################
 #
-#  usage:
-#  cd Source
-#  astyle --options="../astyle.options" "./*"
+# Custom options file for astyle (astyle.sourceforge.net), a source code
+# formatter for C/C++ (and some other languages).
 #
-#  Some documentation of the options is provided here for convenience. For full
-#  options documentation, go to astyle.sourceforge.net/astyle.html.
+# usage:
+# cd Source
+# astyle --options="../astyle.options" "./*"
+#
+# Some documentation of the options is provided here for convenience. For full
+# options documentation, go to astyle.sourceforge.net/astyle.html.
+#
+# File Location:
+#https://github.com/akshayupendran/C_PlatformTemplate/blob/master/astyle.options
+################################################################################
+
 
 ######################
 # Brace Style Options
@@ -174,3 +181,15 @@
 --formatted
 # The lineendings can either be windows or linux or macold
 --lineend=linux
+
+################################################################################
+############################## REVISION HISTORY ################################
+################################################################################
+# 1.
+# Date:   02-Oct-2019
+# Author: Akshay Krishna akshayupendran
+# Create Astyle Settings for Linux Virtual Box
+#
+# 2.
+#
+################################################################################
