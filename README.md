@@ -11,7 +11,7 @@ Shall run astyle before checking in.
 
 ToDo:
 Docker image
-Cmake
-Ninja
-Meson https://mesonbuild.com/
-clang instead of gcc
+Cmake and Meson https://mesonbuild.com/
+Ninja and Make
+clang and gcc support
+Setup Travis CI Support
