@@ -1,0 +1,3 @@
+cmake -G "Ninja"
+
+Source Tree: /home/akshay/Desktop/GitHub/C_PlatformTemplate/src
