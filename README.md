@@ -10,6 +10,9 @@ Release Shell Script:
 Shall run astyle before checking in.
 
 ToDo:
+Mastering CMake
+Hippomocks
+
 Docker image
 Cmake and Meson https://mesonbuild.com/
 Ninja and Make

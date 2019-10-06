@@ -1,0 +1,1 @@
+qemu-system-tricore -machine tricore_testboard

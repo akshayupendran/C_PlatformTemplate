@@ -62,7 +62,7 @@
 --indent-after-parens
 # Set the continuation indent for a line that ends with an opening paren '('
 # or an assignment '='.
---indent-continuation=2
+--indent-continuation=1
 # Add extra indentation to labels so they appear 1 indent less than the current
 # indentation, rather than being flushed to the left (the default).
 --indent-labels
