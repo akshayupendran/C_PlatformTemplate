@@ -34,15 +34,3 @@ SpaceAfterTemplateKeyword: false
 SpacesBeforeTrailingComments: 2
 Standard:        Auto
 TabWidth:        4
-
-################################################################################
-############################## REVISION HISTORY ################################
-################################################################################
-# 1.
-# Date:   02-Oct-2019
-# Author: Akshay Krishna akshayupendran
-# Create CLang Format Settings for Linux Virtual Box
-#
-# 2.
-#
-################################################################################

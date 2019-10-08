@@ -180,15 +180,3 @@
 --formatted
 # The lineendings can either be windows or linux or macold
 --lineend=linux
-
-################################################################################
-############################## REVISION HISTORY ################################
-################################################################################
-# 1.
-# Date:   02-Oct-2019
-# Author: Akshay Krishna akshayupendran
-# Create Astyle Settings for Linux Virtual Box
-#
-# 2.
-#
-################################################################################

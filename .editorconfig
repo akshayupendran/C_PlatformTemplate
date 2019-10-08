@@ -34,15 +34,3 @@ charset = utf-8
 
 ; If Sub root files exist make sure to add unset to these variablles
 ; Both # and ; are commments
-
-################################################################################
-############################## REVISION HISTORY ################################
-################################################################################
-# 1.
-# Date:   02-Oct-2019
-# Author: Akshay Krishna akshayupendran
-# Create Editor Config Settings for Linux Virtual Box
-#
-# 2.
-#
-################################################################################
