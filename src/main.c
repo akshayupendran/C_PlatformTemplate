@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include "StdTypes.h"
 
-void print_input_parameters(int argc, char ** argv);
+void print_input_parameters(int argc, char** argv);
 
 int main(int argc, char** argv)
 {
@@ -9,7 +9,7 @@ int main(int argc, char** argv)
     return 0;
 }
 
-void print_input_parameters(int argc, char ** argv)
+void print_input_parameters(int argc, char** argv)
 {
     uint8_t LoopCounter_ui08;
     printf("Input Parameters are:\n");
