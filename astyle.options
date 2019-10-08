@@ -102,9 +102,9 @@
 # --pad-paren-in
 # Do not Insert space padding between a header (e.g. 'if', 'for', 'while'...)
 # and the following paren.
-# --pad-header
+--pad-header
 # Remove extra space padding around parens on the inside and outside.
---unpad-paren
+# --unpad-paren
 # Do not delete empty lines within a function or method.
 # --delete-empty-lines
 # Do not Fill empty lines with the white space of the previous line.

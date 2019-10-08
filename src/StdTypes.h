@@ -8,7 +8,7 @@
  *  @bug No known bugs.
  */
 #ifndef STDTYPES_H
-    #define STDTYPES_H
+#define STDTYPES_H
 
 typedef unsigned char      uint8_t;
 typedef unsigned short int uint16_t;

@@ -24,7 +24,6 @@ BreakInheritanceList: AfterColon
 BreakBeforeTernaryOperators: false
 BreakConstructorInitializers: AfterColon
 IndentCaseLabels: true
-IndentPPDirectives: BeforeHash
 IndentWidth:     4
 IndentWrappedFunctionNames: true
 KeepEmptyLinesAtTheStartOfBlocks: false
