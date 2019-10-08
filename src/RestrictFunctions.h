@@ -8,7 +8,7 @@
  */
 
 #ifndef RESTRICFUNCTIONS_H
-#define RESTRICFUNCTIONS_H
+    #define RESTRICFUNCTIONS_H
 
 #endif /* RESTRICFUNCTIONS_H */
 /* End Of File */

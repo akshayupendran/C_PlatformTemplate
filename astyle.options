@@ -1,17 +1,16 @@
 ################################################################################
-#
+# \file astyle.options
+# \author Akshay Krishna Upendran
+# \brief
 # Custom options file for astyle (astyle.sourceforge.net), a source code
 # formatter for C/C++ (and some other languages).
 #
 # usage:
-# cd Source
+# cd src
 # astyle --options="../astyle.options" "./*"
 #
 # Some documentation of the options is provided here for convenience. For full
 # options documentation, go to astyle.sourceforge.net/astyle.html.
-#
-# File Location:
-#https://github.com/akshayupendran/C_PlatformTemplate/blob/master/astyle.options
 ################################################################################
 
 
